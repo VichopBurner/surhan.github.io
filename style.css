@@ -1,4 +1,4 @@
-body {
+echo "body {
     margin: 0;
     padding: 0;
     background: #000; /* Black background */
@@ -17,4 +17,4 @@ body {
 h1, p {
     margin: 0;
     padding: 10px;
-}
+}" > style.css
