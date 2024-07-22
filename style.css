@@ -1,4 +1,4 @@
-body {
+echo "body {
     margin: 0;
     padding: 0;
     background: #001f3f; /* Dark blue background */
@@ -110,4 +110,4 @@ body {
     font-size: 1.2em; /* Slightly larger font size for paragraph */
     margin: 0;
     padding: 10px;
-}
+}" > style.css
