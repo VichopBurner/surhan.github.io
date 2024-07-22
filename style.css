@@ -11,7 +11,7 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 10px 20px;
-    background: #001f3f; /* Dark blue background to match the body */
+    background: #000a1b; /* Darker blue shade */
     color: #fff; /* White text color */
     position: fixed;
     width: 100%;
@@ -39,6 +39,7 @@ body {
 
 .navbar-collapse {
     display: flex;
+    margin-left: 10px; /* Shift text slightly to the left */
 }
 
 .navbar-nav {
